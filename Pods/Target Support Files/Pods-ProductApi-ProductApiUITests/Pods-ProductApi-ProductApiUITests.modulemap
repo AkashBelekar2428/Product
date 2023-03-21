@@ -1,0 +1,6 @@
+framework module Pods_ProductApi_ProductApiUITests {
+  umbrella header "Pods-ProductApi-ProductApiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
